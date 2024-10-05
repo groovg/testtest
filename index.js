@@ -11,3 +11,5 @@ console.log("golovastik");
 console.log("proverka2");
 
 console.log("proverka3");
+
+console.log("final proverka");
