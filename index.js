@@ -9,3 +9,5 @@ console.log("YA TUPOY EBLAN");
 console.log("golovastik");
 
 console.log("proverka2");
+
+console.log("proverka3");
